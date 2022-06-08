@@ -1,0 +1,25 @@
+{
+  "name": "node-ddns",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/henry-herrmann/node-ddns.git"
+  },
+  "author": "Henry Herrmann",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/henry-herrmann/node-ddns/issues"
+  },
+  "homepage": "https://github.com/henry-herrmann/node-ddns#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dnsd": "^0.9.6",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1"
+  }
+}
